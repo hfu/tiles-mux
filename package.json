@@ -1,0 +1,26 @@
+{
+  "name": "tiles-mux",
+  "version": "1.0.0",
+  "description": "tile multiplexer from expiretiles .tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/tiles-mux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfu/tiles-mux/issues"
+  },
+  "homepage": "https://github.com/hfu/tiles-mux#readme",
+  "dependencies": {
+    "@mapbox/tilebelt": "^1.0.1",
+    "config": "^1.30.0",
+    "hjson": "^3.1.1",
+    "node-filelist": "^1.0.0"
+  }
+}
